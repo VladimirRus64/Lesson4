@@ -1,6 +1,6 @@
 # language: ru
 
-  @Test
+@Test
 
   Функция: калькулятор
     @test1
